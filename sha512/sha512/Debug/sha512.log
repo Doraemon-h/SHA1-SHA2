@@ -1,0 +1,8 @@
+﻿  sha512.c
+C:\Users\lenovo\Desktop\大三上\密码学\sha512\sha512\sha512.c(82,49): warning C4244: “函数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+C:\Users\lenovo\Desktop\大三上\密码学\sha512\sha512\sha512.c(97,57): warning C4244: “函数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+C:\Users\lenovo\Desktop\大三上\密码学\sha512\sha512\sha512.c(212,7): warning C4013: “exit”未定义；假设外部返回 int
+C:\Users\lenovo\Desktop\大三上\密码学\sha512\sha512\sha512.c(216,22): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\lenovo\Desktop\大三上\密码学\sha512\sha512\sha512.c(209,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+  sha512.vcxproj -> C:\Users\lenovo\Desktop\大三上\密码学\sha512\Debug\sha512.exe
