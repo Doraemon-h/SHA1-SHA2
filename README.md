@@ -18,7 +18,7 @@
 
 2.SHA512
 运行结果
-![Uploading image.png…]()
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/52338965/154854265-a45b0e57-6224-4ea0-a34e-c344588089ad.png">
 用命令行测试正确性
-![Uploading image.png…]()
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/52338965/154854279-5fe57160-3e7f-4147-83ad-bb33b7b5a8f6.png">
 运行结果正确，速度为18-20Mb/s
